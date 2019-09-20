@@ -1,0 +1,54 @@
+{
+   "0" : {
+      "say": "Hi I'm Andy from Hyperlab. Recently, we sent a sms survey to your good self but you may have missed it due to your demanding schedule. I would like to have a moment of your time to ask a few quick questions. Do you have time for this?",
+      "hints": "yes, yeah, ok, affirmative, amen, fine, good, okay, true, yea, all right, aye, beyond a doubt, by all means, certainly, definitely, even so, exactly, gladly, good enough, granted, indubitably, just so, most assuredly, naturally, of course, positively, precisely, sure thing, surely, undoubtedly, unquestionably, very well, willingly, without fail, yep, yep, yeah, yes, sure, ok, go ahead, continue, do it, proceed, ya ,yea, no problem, can, quick, fast, faster, I have only 5 mins, try, okay, now, no ,no time, not interested, don't call me, away, stop, don't like, annoying, irritating, irritated, troublesome, pissed, interrupt, spam, don't think, don't bother, crazy, no, nay, nope, not, nix, never, not, meeting, busy, not free, call me after, after working hours, driving, appointment, overseas, after, who is this, Who are you, what is this for , could you explain further, again, what did you say, don't understand, elaborate, more, not clear , repeat, why are you calling me, how long, what, do you mean"   
+   },
+   "1" : {
+      "say": "Hi again, the reason I'm calling is to get some feedback from your recent interaction with Zurich. Do you have a few minutes to chat?",
+      "hints": "yes, yeah, ok, affirmative, amen, fine, good, okay, true, yea, all right, aye, beyond a doubt, by all means, certainly, definitely, even so, exactly, gladly, good enough, granted, indubitably, just so, most assuredly, naturally, of course, positively, precisely, sure thing, surely, undoubtedly, unquestionably, very well, willingly, without fail, yep, yep, yeah, yes, sure, ok, go ahead, continue, do it, proceed, ya ,yea, no problem, can, quick, fast, faster, I have only 5 mins, try, okay, now"
+   },
+   "2" : {
+      "say": "Thank you for choosing Zurich as your preferred insurance partner. Based on your recent experience with us, how likely are you to recommend Zurich Insurance to your family and friends. Please rate 0 ­to 10, with 10 being very likely.",
+      "hints": "one, two, three, four, five, six, seven, eight, nine, ten, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+   },
+   "2.1" : {
+      "say": "I'm sorry, but I wasn't able to hear your response clearly. Can you give me a number between 0 and 10?",
+      "hints": "one, two, three, four, five, six, seven, eight, nine, ten, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+   },
+   "2.2" : {
+      "say": "Can you please try again. Can you give me a number between 0 and 10?",
+      "hints": "one, two, three, four, five, six, seven, eight, nine, ten, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"
+   },
+   "2.8" : {
+      "say": "Thank you. Can I confirm that your rating is ",
+      "hints" : ""
+   },
+   "3" : {
+      "say": "I'm sorry to have bothered you. Have a good day. Goodbye.",
+      "hints": ""
+   },
+   "4" : {
+      "say": "We will return a call to you tomorrow. thank you.",
+      "hints": ""
+   },
+   "6" : {
+      "say": "Thank you for taking your time to share your feedback. If we could do just one thing to make our experience better, what would that be?",
+      "hints": ""
+   },
+   "7" : {
+      "say": "Thank you for taking your time to share your feedback. Based on your rating, we can see that there is room for improvement. Could you share further with us on what you think we can do better?",
+      "hints": ""
+   },
+   "8" : {
+      "say": "Thank you for providing us your rating. If you are recommending us to a friend, what one reason would you give them?",
+      "hints": ""
+   },
+   "clarify" : {
+      "say": "I'm sorry, I was not able to determine a clear answer. Can you tell me again?",
+      "hints": ""
+   },
+   "end" : {
+      "say": "Thank you for taking the time to provide us your valuable feedback. This will enables us to create a better experience for you and all of our customers. Wishing you a great day ahead, thank you and good bye.",
+      "hints": ""
+   }
+}
